@@ -7,3 +7,7 @@
 ## Output of Translation
 
 ![translated plot](https://github.com/user-attachments/assets/d3dba519-1049-4aa0-9f6d-352c2aa8e2c2)
+
+## Output of Rotation
+
+![rotation final](https://github.com/user-attachments/assets/4079dabb-2612-40f8-90bc-4d9b7cf5a674)
