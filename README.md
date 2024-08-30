@@ -19,3 +19,7 @@
 ## Output of Square_function
 
 ![mapping](https://github.com/user-attachments/assets/f5175d7b-bc00-4b3a-9de9-ceeedfcb7ef1)
+
+## Output of Mapping from z to w plane(Linear)
+
+![linear1](https://github.com/user-attachments/assets/a73f225c-4fbd-4439-b67e-b289676f9418)
