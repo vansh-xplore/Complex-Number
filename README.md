@@ -15,3 +15,7 @@
 ## Output of Magnification
 
 ![magnification](https://github.com/user-attachments/assets/fa025f67-85c1-45dd-9975-3c822a77e5cd)
+
+## Output of Square_function
+
+![mapping](https://github.com/user-attachments/assets/f5175d7b-bc00-4b3a-9de9-ceeedfcb7ef1)
