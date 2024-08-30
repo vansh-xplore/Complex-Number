@@ -23,3 +23,7 @@
 ## Output of Mapping from z to w plane(Linear)
 
 ![linear1](https://github.com/user-attachments/assets/a73f225c-4fbd-4439-b67e-b289676f9418)
+
+## Output of Mapping from z to w plane(Exponential)
+
+![exp](https://github.com/user-attachments/assets/a698409c-af35-4e7a-ac52-3583971a5f4a)
