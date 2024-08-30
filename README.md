@@ -11,3 +11,7 @@
 ## Output of Rotation
 
 ![rotation final](https://github.com/user-attachments/assets/4079dabb-2612-40f8-90bc-4d9b7cf5a674)
+
+## Output of Magnification
+
+![magnification](https://github.com/user-attachments/assets/fa025f67-85c1-45dd-9975-3c822a77e5cd)
